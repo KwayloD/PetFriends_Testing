@@ -1,5 +1,6 @@
 from api import PetFriends
 from settings import *
+import pytest
 import os
 
 pf = PetFriends()
